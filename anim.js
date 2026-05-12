@@ -5,8 +5,8 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
   { text: "Espero que Tenha Gostado", time: 15 },
-  { text: "Manjo Muito", time: 18 },
-  { text: "TOMA JACK", time: 27 },
+  { text: "Minha Pretinha", time: 18 },
+  { text: "Meu Amor", time: 27 },
 ];
 
 // Animar las letras
